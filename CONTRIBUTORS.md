@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Taksaporn Auttamo](https://github.com/taksapornauttamo)
+- Place: Thailand
+- Bio: Tester
+- Github: [TaksapornAuttamo](https://github.com/taksapornauttamo)
